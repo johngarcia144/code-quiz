@@ -1,3 +1,6 @@
+
+// variables 
+
 var quizQuestions = [
     {
     "quizQuestionHeader" : "Commonly used Data Types do NOT Include:", 
